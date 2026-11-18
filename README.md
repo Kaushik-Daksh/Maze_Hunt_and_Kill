@@ -119,8 +119,7 @@ You can modify the following constants in `maze_algorithm.py`:
 
 ```text
 Maze_Hunt_and_Kill/
-│
-└── maze_algorithm.py
+├── maze_algorithm.py
 └── README.md
 ```
 
